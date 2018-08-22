@@ -27,4 +27,4 @@ SalonAI - L'Oreal Brandstorm Competition Smart Mirror Codebase Repository
 # Press Release
 - https://news.psu.edu/story/520944/2018/05/14/academics/penn-staters-create-smart-mirror-match-tech-beauty-global
 - https://www.wearecentralpa.com/news/penn-state-students-to-pitch-smart-mirror-design-at-international-competition-/1141502085
-- http://db.glossy.co/new-face-of-beauty/loreal-is-looking-to-students-to-get-a-leg-up-on-beauty-tech
+- https://www.glossy.co/new-face-of-beauty/loreal-is-looking-to-students-to-get-a-leg-up-on-beauty-tech
